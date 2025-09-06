@@ -1,0 +1,26 @@
+# ✨ EduSync – Smart Learning Dashboard
+
+EduSync is a clean, responsive web interface designed to help students and educators organize coursework, track progress, and streamline learning. Built entirely with **HTML** and **CSS**, this project demonstrates how powerful simple web technologies can be when used thoughtfully.
+
+## 🌟 Features
+
+- 📚 Subject-wise content organization  
+- ✅ Assignment and progress tracking sections  
+- 🎨 Modern, responsive UI with intuitive navigation  
+- 🔧 Pure HTML/CSS—no frameworks or JavaScript  
+- 🧩 Modular layout for easy customization  
+
+## 📁 Folder Structure
+EduSync/ ├── index.html ├── style.css ├── assets/ │ └── images/
+
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Mansi30032024/EduSync.git
+2. Open index.html in your browser
+
+3. Customize style.css to tweak the design as needed
